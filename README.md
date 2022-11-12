@@ -52,7 +52,7 @@ An PointOfSale Microservices web application
          
 ## Usage
 
-* Clone the repository. using ! Git Clone 
+* Clone the repository. using ! Git Clone https://github.com/Manoj-T529/GroceryPointOfSale-Angular-SpringBoot-MicroServices.git
 * Open the repository in your IDE workspace.
 * And run the index.html file on server.
          
